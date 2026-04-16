@@ -1,6 +1,7 @@
 <?php
 /**
  * Plugin Name: CF7 to Max.ru Bot
+ * Plugin URI: https://example.com/moka-woocommerce
  * Description: Отправляет заявки из Contact Form 7 в канал мессенджера Max.ru через бота
  * Version: 1.0
  * Author: orenpro

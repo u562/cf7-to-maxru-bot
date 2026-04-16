@@ -3,7 +3,7 @@
  * Plugin Name: CF7 to Max.ru Bot
  * Plugin URI: https://orenpro.ru/
  * Description: Отправляет заявки из Contact Form 7 в канал мессенджера Max.ru через бота
- * Version: 1.0
+ * Version: 1.03
  * Author: orenpro
  */
 
